@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3206441610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f662c90d6f840ddca32142e0e741d0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb3cfc39379007ef500cf267bae68458
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/UI/UI_ContentPanel.prefab
+- Assets/Prefabs/UI/UI_MainPanel.prefab
+- Assets/Prefabs/UI/UI_LoadingPanel.prefab
+Dependencies: []

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFJ_ArUi.CSharp", "WFJ_ArUi.CSharp.csproj", "{82942947-F9B1-0231-64C4-C6F7C2CBF161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFJ_ArUi.CSharp.Editor", "WFJ_ArUi.CSharp.Editor.csproj", "{9FDF0937-7C7F-5C8E-F07B-72B3EC8BC110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82942947-F9B1-0231-64C4-C6F7C2CBF161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82942947-F9B1-0231-64C4-C6F7C2CBF161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82942947-F9B1-0231-64C4-C6F7C2CBF161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82942947-F9B1-0231-64C4-C6F7C2CBF161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDF0937-7C7F-5C8E-F07B-72B3EC8BC110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDF0937-7C7F-5C8E-F07B-72B3EC8BC110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDF0937-7C7F-5C8E-F07B-72B3EC8BC110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDF0937-7C7F-5C8E-F07B-72B3EC8BC110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
